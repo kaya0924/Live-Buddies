@@ -1,4 +1,4 @@
-https://gyazo.com/bb0e700c73230d675ec9fa95e7d3607e
+https://app.diagrams.net/#G1MXRGLbfSFwTCbDPuA2LkQvaJT9ab9fqC
 
 画面遷移図
 https://www.figma.com/file/DeY7aUiQAqX6MSPlcRhysh/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?type=design&mode=design&t=nk40NNPaL9iek4Cc-0 
