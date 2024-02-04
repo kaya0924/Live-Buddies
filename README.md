@@ -1,5 +1,11 @@
+https://app.diagrams.net/#G1MXRGLbfSFwTCbDPuA2LkQvaJT9ab9fqC
+
+画面遷移図
+https://www.figma.com/file/DeY7aUiQAqX6MSPlcRhysh/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?type=design&mode=design&t=nk40NNPaL9iek4Cc-0 
+
 ### 画面遷移図
 https://www.figma.com/file/DeY7aUiQAqX6MSPlcRhysh/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?type=design&mode=design&t=nk40NNPaL9iek4Cc-0
+
 ■サービス概要
 このサービスは、ライブを一人ではなく誰かと一緒に同じ席で楽しみたい方や、一緒にライブを行く予定だった人が行けなくなって、誰か一緒に行ってくれる人はいないかなど、同じアーティストが好きな仲間と一緒に行って、ライブを楽しむためのアプリです。
 
